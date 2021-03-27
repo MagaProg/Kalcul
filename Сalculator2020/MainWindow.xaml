@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Сalculator2020"
         ResizeMode="NoResize"
         mc:Ignorable="d"
-        Title="Калькулятор" Height="873.282" Width="438.46" Background="{x:Null}" Icon="calculator_3534.png">
+        Title="Калькуляторр" Height="873.282" Width="438.46" Background="{x:Null}" Icon="calculator_3534.png">
     <Grid Margin="0,0,-8,-21">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
